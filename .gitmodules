@@ -1,0 +1,3 @@
+[submodule "nginx-php8-fpm-project"]
+	path = nginx-php8-fpm-project
+	url = https://github.com/bestrada23685/uni-research.git
