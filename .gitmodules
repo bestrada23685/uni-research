@@ -1,3 +1,6 @@
 [submodule "nginx-php8-fpm-project"]
 	path = nginx-php8-fpm-project
 	url = https://github.com/bestrada23685/uni-research.git
+[submodule "limesurvey-ce-project"]
+	path = limesurvey-ce-project
+	url = https://github.com/bestrada23685/uni-research.git
